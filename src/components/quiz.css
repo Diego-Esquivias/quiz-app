@@ -1,0 +1,41 @@
+.quiz {
+    margin: auto;
+    width: fit-content;
+    text-align: center;
+    background-color: rgb(25, 151, 253);
+    padding: 2vw;
+}
+
+.options {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 2.5vw;
+}
+
+.options button {
+    flex: 45%;
+    padding: 1vw;
+    font-size: 1.5vw;
+    background-color: white;
+    border: 3px solid black;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    box-shadow: 10px 10px #ff0000, -10px -10px #000;
+}
+
+.options button:hover {
+    background-color: #00ff33;
+    color: rgb(212, 93, 93);
+    box-shadow: 10px 10px #000, -10px -10px #ff0000;
+    animation: option-animation infinite 1s linear alternate;
+}
+
+@keyframes option-animation {
+    from {
+      transform: rotate(-10deg);
+    }
+    to {
+      transform: rotate(10deg);
+    }
+  }
