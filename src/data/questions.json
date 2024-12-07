@@ -1,0 +1,102 @@
+[
+    {
+        "prompt": "What is the main ingredient in guacamole?",
+        "choices": ["Tomatoes", "Avocados", "Peppers", "Onions"],
+        "correctAnswer": "Avocados"
+    },
+    {
+        "prompt": "Which country is famous for sushi?",
+        "choices": ["China", "Japan", "Thailand", "Vietnam"],
+        "correctAnswer": "Japan"
+    },
+    {
+        "prompt": "What type of pasta is shaped like small rice grains?",
+        "choices": ["Orzo", "Penne", "Fusilli", "Rigatoni"],
+        "correctAnswer": "Orzo"
+    },
+    {
+        "prompt": "Which fruit is known as the 'king of fruits'?",
+        "choices": ["Apple", "Mango", "Banana", "Durian"],
+        "correctAnswer": "Mango"
+    },
+    {
+        "prompt": "What is the primary ingredient in hummus?",
+        "choices": ["Chickpeas", "Lentils", "Beans", "Peas"],
+        "correctAnswer": "Chickpeas"
+    },
+    {
+        "prompt": "Which cheese is traditionally used in a Greek salad?",
+        "choices": ["Feta", "Cheddar", "Mozzarella", "Blue Cheese"],
+        "correctAnswer": "Feta"
+    },
+    {
+        "prompt": "What is the most consumed beverage in the world?",
+        "choices": ["Coffee", "Tea", "Water", "Juice"],
+        "correctAnswer": "Water"
+    },
+    {
+        "prompt": "Which spice is known as the 'queen of spices'?",
+        "choices": ["Cinnamon", "Nutmeg", "Cardamom", "Clove"],
+        "correctAnswer": "Cardamom"
+    },
+    {
+        "prompt": "Which vegetable is known for making people cry when cut?",
+        "choices": ["Carrot", "Onion", "Garlic", "Celery"],
+        "correctAnswer": "Onion"
+    },
+    {
+        "prompt": "Which nut is used to make marzipan?",
+        "choices": ["Walnuts", "Almonds", "Hazelnuts", "Pistachios"],
+        "correctAnswer": "Almonds"
+    },
+    {
+        "prompt": "What type of food is a shiitake?",
+        "choices": ["Fruit", "Vegetable", "Mushroom", "Grain"],
+        "correctAnswer": "Mushroom"
+    },
+    {
+        "prompt": "Which country is the origin of the croissant?",
+        "choices": ["France", "Austria", "Germany", "Belgium"],
+        "correctAnswer": "Austria"
+    },
+    {
+        "prompt": "What is the main ingredient in tofu?",
+        "choices": ["Rice", "Soybeans", "Wheat", "Corn"],
+        "correctAnswer": "Soybeans"
+    },
+    {
+        "prompt": "What is the primary ingredient of miso soup?",
+        "choices": ["Rice", "Seaweed", "Soybean Paste", "Fish"],
+        "correctAnswer": "Soybean Paste"
+    },
+    {
+        "prompt": "Which fruit is dried to make raisins?",
+        "choices": ["Plums", "Grapes", "Dates", "Figs"],
+        "correctAnswer": "Grapes"
+    },
+    {
+        "prompt": "What is the main ingredient of gazpacho?",
+        "choices": ["Tomatoes", "Cucumbers", "Peppers", "Onions"],
+        "correctAnswer": "Tomatoes"
+    },
+    {
+        "prompt": "What is the main flavoring in traditional pesto sauce?",
+        "choices": ["Basil", "Parsley", "Mint", "Oregano"],
+        "correctAnswer": "Basil"
+    },
+    {
+        "prompt": "What is the name of the Spanish dish made with rice, saffron, and seafood?",
+        "choices": ["Risotto", "Jambalaya", "Paella", "Bouillabaisse"],
+        "correctAnswer": "Paella"
+    },
+    {
+        "prompt": "Which fruit has varieties called Cavendish and Plantain?",
+        "choices": ["Apple", "Banana", "Mango", "Papaya"],
+        "correctAnswer": "Banana"
+    },
+    {
+        "prompt": "Which country is the origin of the dish \"Borscht\"?",
+        "choices": ["Poland", "Ukraine", "Russia", "Hungary"],
+        "correctAnswer": "Ukraine"
+    }
+]
